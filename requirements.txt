@@ -1,0 +1,4 @@
+pytesseract
+pyspark
+opencv-contrib-python
+opencv-python
